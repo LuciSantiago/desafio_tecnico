@@ -7,7 +7,7 @@
 
 ## 💻 Pré-requisitos
 
-### Nesse algoritmo foi utilizada a versão 2.17.5 do dart
+#### Nesse algoritmo foi utilizada a versão 2.17.5 do dart
 ```
 https://dart.dev/get-dart
 ```
@@ -16,7 +16,7 @@ https://dart.dev/get-dart
 
 Para instalar o projeto, siga estas etapas:
 
-Clone o projeto em uma pasta desejada
+Abra o seu terminal e clone o projeto
 ```
 git clone https://github.com/LuciSantiago/desafio_tecnico.git
 ```
