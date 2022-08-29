@@ -2,7 +2,8 @@
 
 
 
-> O algoritmo recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número que foi informado.
+> O algoritmo recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 dos numeros que sejam inferiores ao número que foi informado. <br>
+> Exemplo: Caso o número inteiro digitado seja 10, ele deve retornar 23, que é o resultante do somatório dos números 3, 5, 6 e 9 que são menores que 10
 
 
 ## 💻 Pré-requisitos
