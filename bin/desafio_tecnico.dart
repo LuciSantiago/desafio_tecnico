@@ -8,13 +8,13 @@ void main() {
   int resultado = 0;
 
   while (condicao) {
-    print('Digite o número ou digite 0 para sair ');
+    print('Digite o número ou digite 0 para finalizar');
     entrada = int.parse(stdin.readLineSync() ?? '0');
     if (entrada > 0) {
       resultado = somaDivisiveis(entrada);
       print('Resultado: $resultado');
     } else {
-      print('Você saiu');
+      print('Algoritmo finalizado!');
       condicao = false;
     }
   }
